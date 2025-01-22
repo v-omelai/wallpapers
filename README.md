@@ -1,5 +1,5 @@
-# Cloud
+## Cloud
 ![Cloud](Demo/Cloud.gif)
 
-# HashiCorp
+## HashiCorp
 ![HashiCorp](Demo/HashiCorp.gif)
